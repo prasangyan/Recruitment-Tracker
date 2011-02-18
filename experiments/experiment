@@ -1,0 +1,29 @@
+body
+{
+  background:#edfcff;
+}
+.container
+{
+  background:#FFF;
+  margin:0 auto;
+	width:640px;
+	padding:20px;
+  margin-top:30px;
+  -moz-box-shadow: 3px 3px 4px #c9c9c9;
+  -webkit-box-shadow: 3px 3px 4px #c9c9c9;
+  box-shadow: 3px 3px 4px #c9c9c9;
+}
+
+.number
+{
+  background:url("arrow.png") no-repeat;
+  position:absolute;
+  z-index:1;
+  width:60px;
+  height:40px;
+  margin-left:-70px;
+  padding:10px 10px 10px 15px;
+  font-size:1.2em;
+  font-weight:bold;
+  color:#fff;
+}
