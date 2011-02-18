@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc2bbcf8-8cbf-4f9e-b81f-dd1ca2ae0f34" name="Default" comment="Added a favicon and testing commits from RubyMine">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/success.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.htm" afterPath="$PROJECT_DIR$/home.htm" />
@@ -29,10 +28,10 @@
   <component name="FileColors" enabled="true" enabledForTabs="true" showNonProject="false" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.htm" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="76" selection-start="4727" selection-end="4727" vertical-scroll-proportion="-20.5">
+            <state line="35" column="0" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.2857143">
               <folding />
             </state>
           </provider>
@@ -58,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="396" column="27" selection-start="9310" selection-end="9310" vertical-scroll-proportion="0.6376652">
+            <state line="317" column="22" selection-start="7836" selection-end="7836" vertical-scroll-proportion="-5.76">
               <folding />
             </state>
           </provider>
@@ -86,8 +85,8 @@
         <option value="$PROJECT_DIR$/experiments/experiment" />
         <option value="$PROJECT_DIR$/TechSpecialist.htm" />
         <option value="$PROJECT_DIR$/success.html" />
-        <option value="$PROJECT_DIR$/home.htm" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/home.htm" />
       </list>
     </option>
   </component>
@@ -231,7 +230,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20144753" sideWeight="0.67058825" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -305,16 +304,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.htm">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="76" selection-start="4727" selection-end="4727" vertical-scroll-proportion="-20.5">
+        <state line="317" column="22" selection-start="7836" selection-end="7836" vertical-scroll-proportion="-5.76">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/home.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="396" column="27" selection-start="9310" selection-end="9310" vertical-scroll-proportion="0.6376652">
+        <state line="35" column="0" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.2857143">
           <folding />
         </state>
       </provider>

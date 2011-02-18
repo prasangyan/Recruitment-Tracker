@@ -309,6 +309,14 @@ label
 }
 
 /*Top bar*/
+.logo-container
+{
+  margin:0 auto;
+	width:640px;
+	padding:20px;
+  margin-top:10px;
+  margin-bottom:-30px;
+}
 .container
 {
 	background:#FFF;
@@ -328,10 +336,7 @@ label
   margin-top:10px;
   margin-bottom:10px;
 }
-.logo
-{
-  margin-bottom:20px;
-}
+
 .number
 {
   background:url("../images/arrow.png") no-repeat;
