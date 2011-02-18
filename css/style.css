@@ -320,6 +320,14 @@ label
   -webkit-box-shadow: 3px 3px 4px #ececec;
   box-shadow: 3px 3px 4px #ececec;
 }
+.no-bg-container
+{
+  margin:0 auto;
+	width:640px;
+	padding:20px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
 .logo
 {
   margin-bottom:20px;
@@ -344,12 +352,80 @@ label
 {
   
 }
-
+.error
+{
+  background:#fff0ee;
+  color:#ff1e00;
+  margin:0 auto;
+	width:640px;
+	padding:20px;
+  margin-top:30px;
+  border-bottom:#ff1e00 1px solid;
+  border-top:#ff1e00 1px solid;
+}
 .description
 {
   color:#a9a9a9;
   font-size:1.1em;
 }
+
+a.gradient-button, .gradient-button:visited
+{
+	margin-top:-5px;
+	background: #222 url(../images/gradient-button-overlay.png) repeat-x;
+	display: inline-block;
+	padding: 5px 10px 6px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 1;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-box-shadow: 0 1px 3px #999;
+	-webkit-box-shadow: 0 1px 3px #999;
+	text-shadow: 0 -1px 1px #222;
+	border-bottom: 1px solid #222;
+	position: relative;
+	cursor: pointer;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+}
+a.gradient-button:hover
+{
+	background-color: #006e87;
+}
+a.gradient-button:active
+{
+	top: 1px;
+}
+/*Button sizes*/
+.small.gradient-button
+{
+	font-size:1.1em;
+}
+/*Button Color*/
+.blue.gradient-button
+{
+	background-color:#00A6CB;
+}
+/*Button Positions*/
+h2 span a
+{
+	font-size:2em;
+	float:right;
+}
+.title-button
+{
+	float:right;
+}
+span.menu-button
+{
+	float:right;
+	font-size:.6em;
+}
+
 
 /*
  * Media queries for responsive design
