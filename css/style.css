@@ -357,6 +357,15 @@ label
 {
   
 }
+.seperator
+{
+  margin-top:20px;
+  margin-bottom:20px;
+  text-align:center;
+  font-size:1.5em;
+  font-weight:bold;
+}
+
 .error
 {
   background:#fff0ee;
